@@ -1,7 +1,7 @@
 # NanoCron
 A lightweight, custom cron system written in C++ designed for containerized applications with advanced logging and robust job management.
 
-## Comparison Table: System Cron vs. Custom C++ Cron
+## Comparison Table: System Cron vs. NanoCron
 ________________________________________________________________________________________________________________________
 | **Feature**               | **System Cron (cron/crond)**                 | **NanoCron**                              |
 |---------------------------|----------------------------------------------|-------------------------------------------|
